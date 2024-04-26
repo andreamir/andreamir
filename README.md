@@ -21,26 +21,6 @@ const andrea = {
 <h2 align="center"> 🛠 Technologies I Use</h2>
 
 <div align="center">
-
-[![React][React]][React-url]&nbsp;&nbsp;&nbsp;
-[![Redux][Redux]][Redux-url]&nbsp;&nbsp;&nbsp;
-[![Next.js][Next.js]][Next-url]&nbsp;&nbsp;&nbsp;
-[![Node][Node.JS]][Node.JS-url]&nbsp;&nbsp;&nbsp;
-[![Express][Express.js]][Express.js-url]&nbsp;&nbsp;&nbsp;
-[![MongoDB][MongoDB]][MongoDB-url]&nbsp;&nbsp;&nbsp;
-[![Mongoose][Mongoose]][Mongoose-url]&nbsp;&nbsp;&nbsp;
-[![MySQL][MySQL]][MySQL-url]&nbsp;&nbsp;&nbsp;
-[![Sequelize][Sequelize]][Sequelize-url]&nbsp;&nbsp;&nbsp;
-
-<br>
-
-[![HTML5][HTML5]][HTML5-url]&nbsp;&nbsp;&nbsp;
-[![JS][JS]][JS-url]&nbsp;&nbsp;&nbsp;
-[![CSS3][CSS3]][CSS3-url]&nbsp;&nbsp;&nbsp;
-[![SASS][SASS]][SASS-url]&nbsp;&nbsp;&nbsp;
-[![Bootstrap][Bootstrap]][Bootstrap-url]&nbsp;&nbsp;&nbsp;
-[![Ant-Design][Ant-Design]][Ant-Design-url]&nbsp;&nbsp;&nbsp;
-
 </div>
 
 <br>
