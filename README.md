@@ -1,6 +1,6 @@
 # andreamir
 
-<h2> Hi, I'm Andrea Mir! <img src="https://giphy.com/gifs/raccoon-pedro-Dg4TxjYikCpiGd7tYs" width="50"></h2>
+<h2> Hi, I'm Andrea Mir! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFmeXA1a3hhMGx1d3d3bGVnNndqaWs4YWEzZ3Nld3FweGZjamhlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif" width="50"></h2>
 <img align='right' src="https://static-01.cinema8.com/gallery/50/81871b09-6568-4b6e-8fe9-991aaee55abe/woman_working.gif?1626020200352" width="230">
 <p> I'm a Junior Full Stack Developer MERN
 </em></p>
